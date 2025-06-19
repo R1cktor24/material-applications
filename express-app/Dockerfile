@@ -1,4 +1,4 @@
-node:16
+From node:16-alpine
 
 COPY . .
 
